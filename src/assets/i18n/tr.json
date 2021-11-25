@@ -2,8 +2,8 @@
   "APP": {
     "A_BROWSER_WARNING": "Üzgünüz, ancak uygulama bu tarayıcıda çalışacak şekilde optimize edilmedi. Lütfen krom tabanlı bir tarayıcı kullanmayı veya uygulamanın elektron sürümünü indirmeyi düşünün.",
     "B_INSTALL": {
-      "IGNORE": "Aldırmamak",
-      "INSTALL": "kurmak",
+      "IGNORE": "Görmezden gel",
+      "INSTALL": "Kur",
       "MSG": "Süper Verimliliği PWA olarak kurmak ister misiniz?"
     },
     "B_OFFLINE": "İnternet bağlantınız kesildi. Sorun sağlayıcı verilerini senkronize etmek ve istemek işe yaramaz.",
@@ -23,7 +23,7 @@
     "RESTORE_STRAY_BACKUP": "Son senkronizasyon sırasında bazı hatalar olabilir. Son yedeği geri yüklemek istiyor musunuz?"
   },
   "DATETIME_INPUT": {
-    "IN": " {{time}}içinde",
+    "IN": " {{time}} içinde",
     "TOMORROW": "yarın {{time}}"
   },
   "DATETIME_SCHEDULE": {
@@ -41,7 +41,7 @@
         "LABELS": {
           "FILE": "Dosya yolu",
           "IMG": "görüntü",
-          "LINK": "Url"
+          "LINK": "Link"
         },
         "SELECT_TYPE": "Bir tür seçin",
         "TYPES": {
@@ -53,7 +53,7 @@
     },
     "BOOKMARK": {
       "BAR": {
-        "ADD": "İmi eklemek",
+        "ADD": "İmi ekle",
         "DROP": "Yer imi eklemek için buraya bırakın",
         "EDIT": "Yer İşaretlerini Düzenle",
         "NO_BOOKMARKS": "Proje yer imleriniz yok. Sürükle ve bırak yöntemiyle veya '' simgesini tıklatarak ekleyin."
@@ -1089,7 +1089,7 @@
       "JA": "Japonca",
       "KO": "Koreli",
       "LABEL": "Lütfen bir dil seçin",
-      "NB": "Norveççe Bokmål",
+      "NB": "Norveççe",
       "NL": "Flemenkçe",
       "PL": "Lehçe",
       "PT": "Portekizce",
@@ -1201,7 +1201,7 @@
     "DELETE_TAG": "Etiketi Sil",
     "GO_TO_TASK_LIST": "Görev listesine git",
     "MANAGE_PROJECTS": "Projeleri Yönet",
-    "METRICS": "Metrik",
+    "METRICS": "Metrikler",
     "NOTES": "Notlar",
     "PROCRASTINATE": "ertelemek",
     "PROJECTS": "Projeler",
